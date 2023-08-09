@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
-	Uri="https://van-vs.github.io/deploygood/TestInstaller.appinstaller"
 	Version="1.0.12.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="05f77dc5-c3be-4772-9c8a-709713364563"
