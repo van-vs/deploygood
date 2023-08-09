@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://van-vs.github.io/deploygood/WapProjTemplate1.appinstaller"
-	Version="1.0.0.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Version="1.0.0.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
 	<MainBundle
 		Name="e2876bad-6d0b-479a-bf43-30b723c889a9"
 		Version="1.0.0.0"
